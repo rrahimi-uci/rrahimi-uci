@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rrahimi-uci
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m learning LLMs and how to use them efficiently in applications.
-- 💞️ I’m looking to collaborate on cool projects on LLMs and Generative AI
-- 😄 Pronouns: He/Him
+* 👋 Hi, I’m Reza Rahimi — AI engineering leader, builder, and researcher.
+* 👀 I’m interested in Agentic AI, LLMs, machine learning platforms, evaluation systems, and scalable AI infrastructure.
+* 🌱 I’m currently exploring how to build, evaluate, calibrate, and deploy trustworthy AI applications efficiently.
+* 💞️ I’m open to collaborating on open-source projects in LLMs, Generative AI, agentic workflows, AI evaluation, and MLOps.
+* 🛠️ I enjoy turning research ideas into production-grade AI systems.
+* 😄 Pronouns: He/Hi
