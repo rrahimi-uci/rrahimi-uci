@@ -1,11 +1,11 @@
 # Reza Rahimi
 
-**AI Engineering Manager · Researcher · Open-Source Builder**
+**AI/ML Engineering Manager · Builders and Designer .**
 
-Building and evaluating **trustworthy, production-grade AI** — Agentic AI, LLMs, LLM safety & guardrails, evaluation systems, and scalable ML infrastructure (MLOps / LLMOps).
+Building and scaling **trustworthy, production-grade AI/ML Products.** — AI/ML, Agentic AI, LLMs, LLM safety & guardrails, evaluation systems, and scalable ML infrastructure (MLOps / AgentOps).
 
-🔭 Currently: how to **build, evaluate, calibrate, and deploy** LLM applications and AI agents efficiently.
-💞️ Open to collaborating on open-source in **LLMs · Generative AI · agentic workflows · AI evaluation · MLOps**.
+🔭 Currently: how to **build, evaluate, calibrate, Scale and deploy Safely** LLM applications and AI agents efficiently.
+💞️ Open to collaborating on open-source in **AI/ML, LLMs · Generative AI · agentic workflows · AI evaluation · AgenticOps**.
 
 📫 [GitHub](https://github.com/rrahimi-uci) · Pronouns: He/Him
 
