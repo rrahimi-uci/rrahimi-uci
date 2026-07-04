@@ -1,6 +1,6 @@
 # Reza Rahimi
 
-**AI/ML Engineering Manager · Builders and Designer .**
+**AI/ML Engineering Manager · Architect and Builder .**
 
 Building and scaling **trustworthy, production-grade AI/ML Products.** — AI/ML, Agentic AI, LLMs, LLM safety & guardrails, evaluation systems, and scalable ML infrastructure (MLOps / AgentOps).
 
