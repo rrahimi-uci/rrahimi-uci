@@ -13,10 +13,6 @@ Building and scaling **trustworthy, production-grade AI/ML Products.** — AI/ML
 
 ## 🚀 Featured Projects
 
-### 🕶️ [Agent Bouncer](https://github.com/rrahimi-uci/agent-bouncer)
-A tiny, fast **SLM safety guardrail** for LLMs & agents — screens prompts, tool calls, and outputs *before* they reach your model. Fine-tuned + RL-tuned (GRPO), benchmarked against GPT-4o-mini, with a training studio and an honest scoreboard.
-`LLM safety` · `guardrails` · `prompt-injection` · `jailbreak detection` · `content moderation` · `small language models` · `MLflow`
-
 ### 🎛️ [Caliber Suite](https://github.com/rrahimi-uci/caliber-suite)
 Open-source **MLflow plugin** for AI agents and agentic workflows — prompts, tools, skills, MCP servers, RAG knowledge bases, evaluation, deployment, and observability.
 `MLflow` · `LLMOps` · `AI agents` · `evaluation` · `observability` · `MCP` · `RAG`
