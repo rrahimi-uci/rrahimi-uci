@@ -17,6 +17,10 @@ Building and scaling **trustworthy, production-grade AI/ML Products.** — AI/ML
 **Safety benchmark gains do not guarantee safety transfer.** A paired, same-checkpoint study of how compact prompt-safety **guards** specialize, transfer, and compose — LoRA-SFT vs. base-anchored KL-SFT across four instruction checkpoints, a dual-labeled mortgage benchmark, and an analysis-preregistered panel of released vendor guards. Every study's state, evidence tier, and verification path lives in a normative registry; the unified report's tables and figures are byte-checked against committed artifacts.
 `LLM safety` · `guard models` · `LoRA / SFT` · `preregistration` · `benchmark transfer` · `reproducible research`
 
+### ⚙️ [Guarded Agentic Compaction](https://github.com/rrahimi-uci/guarded-agentic-compaction) · [research site](https://rrahimi-uci.github.io/guarded-agentic-compaction/)
+**Traces establish recurrence, not admissibility.** A trace-to-program compiler that turns repeated read-only agent prefixes into deterministic **guarded programs** — and refuses whenever the evidence cannot license one. Typed value provenance, effect and position barriers, a bounded 23-operator DSL, runtime verification, and a finite-sample selective-risk gate whose default output is retirement. Across three live-provider GitHub workflow families it holds **90/90 exact held-out outcomes** while removing 50–75% of provider requests; on NESTFUL and API-Bank every recurrent family retires — which is the result, not a failure.
+`agent optimization` · `program synthesis` · `provenance` · `selective risk control` · `LLM agents` · `reproducible research`
+
 ### 🧠 [Agentic Context Engineering (ACE)](https://github.com/rrahimi-uci/agentic-context-engineering) · [docs](https://rrahimi-uci.github.io/agentic-context-engineering/)
 Faithful **ICLR 2026** implementation — evolving, self-improving context playbooks for LLM agents via a Generator → Reflector → Curator loop with incremental delta updates. OpenAI Agents SDK support, 163 tests, and an 11-recipe cookbook.
 `context engineering` · `self-improving agents` · `in-context learning` · `agent memory`
@@ -45,7 +49,7 @@ AI-powered **mock-interview assistant** for ML engineering, leadership/behaviour
 
 ## 🛠️ Focus Areas
 
-**Agentic AI** · **LLM safety & guardrails** · **prompt-injection / jailbreak detection** · **LLM & agent evaluation** · **MLflow / LLMOps / MLOps** · **RAG** · **reinforcement learning (RLHF/GRPO/PPO)** · **fine-tuning (SFT/LoRA)** · **knowledge graphs** · **multi-agent systems**
+**Agentic AI** · **LLM safety & guardrails** · **prompt-injection / jailbreak detection** · **LLM & agent evaluation** · **program synthesis & selective risk control** · **MLflow / LLMOps / MLOps** · **RAG** · **reinforcement learning (RLHF/GRPO/PPO)** · **fine-tuning (SFT/LoRA)** · **knowledge graphs** · **multi-agent systems**
 
 Python · PyTorch · Transformers · TRL · MLflow · FastAPI · LangChain · React
 
