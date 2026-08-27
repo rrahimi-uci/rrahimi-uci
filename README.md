@@ -37,6 +37,10 @@ A clean reference implementation of the **Agent-to-Agent (A2A) protocol** — sp
 Enterprise **compliance automation** — turn compliance documents into queryable knowledge graphs via a multi-agent AI pipeline, with an interactive graph explorer.
 `knowledge graphs` · `compliance` · `RegTech` · `multi-agent` · `JanusGraph`
 
+### ⚖️ [Compliance-to-Code](https://github.com/rrahimi-uci/compliance-to-code)
+A focused research spinoff that compiles compliance policy text into typed, source-grounded **executable decision logic** for DMN/BPMN. Its ten-agent CLI pipeline independently verifies extracted rules against source documents, then partitions them into dependency DAGs with a checked coverage guarantee.
+`compliance automation` · `executable rules` · `DMN / BPMN` · `grounding` · `dependency DAGs`
+
 ### 💸 [RL for Anti-Money-Laundering](https://github.com/rrahimi-uci/rl-anti-money-laundry) · [live demo](https://rrahimi-uci.github.io/rl-anti-money-laundry/)
 **Reinforcement learning** (PPO/A2C/DQN) that dynamically tunes AML risk-scoring weights per case — Gymnasium env, FastAPI backend, React training dashboard.
 `reinforcement learning` · `AML` · `RegTech` · `PPO` · `risk scoring`
