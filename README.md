@@ -1,10 +1,10 @@
 # Reza Rahimi
 
-**AI/ML Engineering Manager · Architect and Builder .**
+**AI/ML Engineering Manager · Architect and Builder**
 
-Building and scaling **trustworthy, production-grade AI/ML Products.** — AI/ML, Agentic AI, LLMs, LLM safety & guardrails, evaluation systems, and scalable ML infrastructure (MLOps / AgentOps).
+Building and scaling **trustworthy, production-grade AI/ML products** — AI/ML, Agentic AI, LLMs, LLM safety & guardrails, evaluation systems, and scalable ML infrastructure (MLOps / AgentOps).
 
-🔭 Currently: how to **build, evaluate, calibrate, Scale and deploy Safely** LLM applications and AI agents efficiently.
+🔭 Currently: how to **build, evaluate, calibrate, scale, and safely deploy** LLM applications and AI agents efficiently.
 💞️ Open to collaborating on open-source in **AI/ML, LLMs · Generative AI · agentic workflows · AI evaluation · AgenticOps**.
 
 📫 [GitHub](https://github.com/rrahimi-uci) · Pronouns: He/Him
@@ -14,7 +14,7 @@ Building and scaling **trustworthy, production-grade AI/ML Products.** — AI/ML
 ## 🚀 Featured Projects
 
 ### 🧭 [CALIBER Suite](https://github.com/rrahimi-uci/caliber-suite) · [documentation](https://rrahimi-uci.github.io/caliber-suite/)
-An MLflow-integrated control plane for **trusted agentic workflows**: governed prompts, tools, skills, MCP servers, workflows, knowledge bases, evaluations, calibration, observability, deployment, and the Aria copilot. The current release tracks MLflow 3.14 and PostgreSQL 17, with a layered architecture, 16 UI cookbooks, and a published documentation site.
+An MLflow-integrated control plane for **trusted agentic workflows**: governed prompts, tools, skills, MCP servers, workflows, knowledge bases, evaluations, calibration, observability, deployment, and the Aria copilot. The current release tracks MLflow 3.15 and PostgreSQL 17, with a layered architecture, 16 UI cookbooks, and a published documentation site.
 `AI platform` · `MLflow` · `AgentOps` · `governance` · `evaluation` · `observability`
 
 ### 🛡️ [Safety Guard Dynamics](https://github.com/rrahimi-uci/safety-guard-dynamics) · [research hub](https://rrahimi-uci.github.io/safety-guard-dynamics/) · [v0.0.1 release](https://github.com/rrahimi-uci/safety-guard-dynamics/releases/tag/guard-v0.0.1)
@@ -29,19 +29,19 @@ An MLflow-integrated control plane for **trusted agentic workflows**: governed p
 Faithful **ICLR 2026** implementation — evolving, self-improving context playbooks for LLM agents via a Generator → Reflector → Curator loop with incremental delta updates. OpenAI Agents SDK support, 163 tests, and an 11-recipe cookbook.
 `context engineering` · `self-improving agents` · `in-context learning` · `agent memory`
 
-### 🤝 [A2A Protocol Reference](https://github.com/rrahimi-uci/a2a-poc) · [live demo](https://rrahimi-uci.github.io/a2a-poc/)
+### 🤝 [A2A Protocol Reference](https://github.com/rrahimi-uci/a2a-poc) · [project site](https://rrahimi-uci.github.io/a2a-poc/)
 A clean reference implementation of the **Agent-to-Agent (A2A) protocol** — specialized AI agents that discover each other and collaborate over JSON-RPC 2.0. Python · FastAPI · Pydantic, with 147 tests at 93% coverage and a worked cookbook.
 `multi-agent systems` · `agent interoperability` · `A2A` · `FastAPI`
 
-### 📚 [Policy-to-Knowledge](https://github.com/rrahimi-uci/policy-to-knowledge) · [live demo](https://rrahimi-uci.github.io/policy-to-knowledge/)
+### 📚 [Policy-to-Knowledge](https://github.com/rrahimi-uci/policy-to-knowledge) · [docs](https://rrahimi-uci.github.io/policy-to-knowledge/)
 Enterprise **compliance automation** — turn compliance documents into queryable knowledge graphs via a multi-agent AI pipeline, with an interactive graph explorer.
 `knowledge graphs` · `compliance` · `RegTech` · `multi-agent` · `JanusGraph`
 
-### ⚖️ [Compliance-to-Code](https://github.com/rrahimi-uci/compliance-to-code)
-A focused research spinoff that compiles compliance policy text into typed, source-grounded **executable decision logic** for DMN/BPMN. Its ten-agent CLI pipeline independently verifies extracted rules against source documents, then partitions them into dependency DAGs with a checked coverage guarantee.
-`compliance automation` · `executable rules` · `DMN / BPMN` · `grounding` · `dependency DAGs`
+### ⚖️ [Policy Logic Forge](https://github.com/rrahimi-uci/policy-logic-forge) · [project site](https://rrahimi-uci.github.io/policy-logic-forge/)
+A focused research spinoff that compiles compliance policy text into typed, source-grounded **executable decision logic** — DMN/BPMN/CMMN/SBVR plus a LinkML business information model. Its thirteen-agent CLI pipeline independently re-derives each rule's evidence from the raw corpus rather than trusting the citation the rule carries, then partitions the survivors into dependency DAGs with a checked coverage guarantee. **RegDelta** diffs two versions of a policy and propagates the impact; six properties of the type lattice, bounded prover, and dependency partition are discharged by exhaustive enumeration rather than by example.
+`compliance automation` · `executable rules` · `DMN / BPMN` · `grounding` · `dependency DAGs` · `differential execution`
 
-### 💸 [RL for Anti-Money-Laundering](https://github.com/rrahimi-uci/rl-anti-money-laundry) · [live demo](https://rrahimi-uci.github.io/rl-anti-money-laundry/)
+### 💸 [RL for Anti-Money-Laundering](https://github.com/rrahimi-uci/rl-anti-money-laundry) · [project site](https://rrahimi-uci.github.io/rl-anti-money-laundry/)
 **Reinforcement learning** (PPO/A2C/DQN) that dynamically tunes AML risk-scoring weights per case — Gymnasium env, FastAPI backend, React training dashboard.
 `reinforcement learning` · `AML` · `RegTech` · `PPO` · `risk scoring`
 
@@ -49,7 +49,7 @@ A focused research spinoff that compiles compliance policy text into typed, sour
 Domain-agnostic, single-node, `docker compose`-portable **tabular AutoML pipeline** (Dagster + FLAML + MLflow + FastAPI) with drift monitoring, an online feature store, a Streamlit dashboard, and one-command start/stop. The real-estate **buyer-stage** classifier ships as the worked example — all domain knowledge lives in YAML, never in framework code.
 `AutoML` · `MLflow` · `Dagster` · `drift detection` · `tabular ML`
 
-### 🎓 [Guru.AI — Interviewer GPT](https://github.com/rrahimi-uci/interviewer-gpt) · [live demo](https://rrahimi-uci.github.io/interviewer-gpt/)
+### 🎓 [Guru.AI — Interviewer GPT](https://github.com/rrahimi-uci/interviewer-gpt) · [project site](https://rrahimi-uci.github.io/interviewer-gpt/)
 AI-powered **mock-interview assistant** for ML engineering, leadership/behavioural, and coding interviews. Gradio 6 · LangChain 1.x · OpenAI · Whisper.
 `interview prep` · `LangChain` · `speech-to-text` · `generative AI`
 
