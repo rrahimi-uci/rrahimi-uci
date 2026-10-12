@@ -1,4 +1,4 @@
-# Reza Rahimi
+# Reza Rahimi, Ph.D.
 
 **AI/ML Engineering Manager · Architect and Builder**
 
