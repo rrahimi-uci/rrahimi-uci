@@ -1,17 +1,19 @@
 # Reza Rahimi, Ph.D.
 
-**AI/ML Engineering Manager · Architect and Builder**
+**AI/ML Engineering Manager · Architect · Builder**
 
-Building and scaling **trustworthy, production-grade AI/ML products** — AI/ML, Agentic AI, LLMs, LLM safety & guardrails, evaluation systems, and scalable ML infrastructure (MLOps / AgentOps).
+I design and build **trustworthy AI systems that can be evaluated, governed, and operated in production**. My public work spans agentic platforms and interoperability, LLM safety and evaluation, reproducible research, enterprise compliance automation, and practical ML infrastructure.
 
-🔭 Currently: how to **build, evaluate, calibrate, scale, and safely deploy** LLM applications and AI agents efficiently.
-💞️ Open to collaborating on open-source in **AI/ML, LLMs · Generative AI · agentic workflows · AI evaluation · AgenticOps**.
+🔭 Current focus: making LLM applications and AI agents more **reliable, observable, secure, and efficient** — from context and tool use to deployment and risk control.
+💞️ Open to collaborating on public work in **AI/ML · agentic systems · LLM safety · evaluation · MLOps / AgentOps · responsible automation**.
 
 📫 [GitHub](https://github.com/rrahimi-uci) · Pronouns: He/Him
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Public Projects
+
+These repositories represent three connected themes: building usable AI infrastructure, studying how to make agentic systems safer and more dependable, and turning complex enterprise policies into auditable automation.
 
 ### 🧭 [CALIBER Suite](https://github.com/rrahimi-uci/caliber-suite) · [Project site](https://rrahimi-uci.github.io/caliber-suite/)
 An MLflow-integrated control plane for **trusted agentic workflows**: governed prompts, tools, skills, MCP servers, workflows, knowledge bases, evaluations, calibration, observability, deployment, and the Aria copilot. A new **Workspace layer** adds multi-project/tenant authorization scoping, a pluggable source-control provider contract with a GitHub adapter, a PR-like Change Request review/promotion lifecycle, and release-governance state machines with break-glass policy. The current release tracks MLflow 3.15 and PostgreSQL 17 with MCP 2.x, a layered architecture, 16 UI cookbooks, a published documentation site, and CI-enforced UI coverage thresholds. A **two-week alpha** slice is now built and wheel-verified at `0.1.0a1` — a real Playwright journey from a flagged trace through diagnosis, a measured candidate, Apply, and rollback — with the release tag itself still to be cut.
