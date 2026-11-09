@@ -5,7 +5,7 @@
 I design and build **trustworthy AI systems that can be evaluated, governed, and operated in production**. My public work spans agentic platforms and interoperability, LLM safety and evaluation, reproducible research, enterprise compliance automation, and practical ML infrastructure.
 
 🔭 Current focus: making LLM applications and AI agents more **reliable, observable, secure, and efficient** — from context and tool use to deployment and risk control.
-💞️ Open to collaborating on public work in **AI/ML · agentic systems · LLM safety · evaluation · MLOps / AgentOps · responsible automation**.
+Open to collaborating on public work in **AI/ML · agentic systems · LLM safety · evaluation · MLOps / AgentOps · responsible automation**.
 
 📫 [GitHub](https://github.com/rrahimi-uci) · Pronouns: He/Him
 
